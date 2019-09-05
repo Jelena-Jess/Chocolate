@@ -1,0 +1,15 @@
+This is a simple website where you can find yummy  recipes.
+
+An admin can add recipes. Users must register and log in in order to read the recipes and post (or delete) comments.
+
+Directory name: ChocolateApp
+
+Database name: chocolate
+Database tables are in the folder called Database_MySQL.
+
+Admin login details: 
+username: admin
+password: 123
+
+
+

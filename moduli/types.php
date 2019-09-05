@@ -1,0 +1,30 @@
+	<h1>A Guide to Chocolate Varieties</h1>
+	<img class="image" src="images/Sweets_Candy_Chocolate_Cinnamon_Nuts_519720_1920x1200.jpg" alt="Varieties of chocolate">
+	
+	<div>
+		<p><em>This brief guide to the types of chocolate will demystify the many different chocolate names, and help you choose the perfect type of chocolate for your recipe. </em></p>
+		<h3> Cocoa powder</h3>
+		<p>This unsweetened powder is pulverized, partially defatted chocolate liquor. Cocoa powder gives an intense chocolate taste and is available in “Dutch-processed” (alkalized) or natural varieties. Natural cocoa powder is light brown, with a strong, pronounced chocolate flavor. It is slightly acidic, so it is best to use natural cocoa powder in recipes calling for baking soda. Alkalized cocoa powder is darker in color, less acidic, and has a milder chocolate taste. Alkalized cocoa powder is recommended for recipes that call for baking powder.</p>
+		<h3> Unsweetened chocolate </h3>
+		<p>Also known as “bitter” or “baking” chocolate. This is pure chocolate liquor, composed solely of ground cocoa beans. Although it looks and smells like chocolate, it has a bitter taste and is not meant for consumption on its own—it is best used in cooking, when it can be combined with sugar to make it more palatable. Because cocoa beans contain equal amounts of cocoa butter and cocoa solids, unsweetened chocolate lends a deep, rich chocolate flavor to baked goods. Unsweetened chocolate is the base ingredient in all other forms of chocolate, except white chocolate.</p>
+		<h3> Dark chocolate</h3>
+		<p>Chocolate that contains chocolate liquor, sugar, cocoa butter, vanilla and leicithin (an emulsifier).There are no milk solids added in dark chocolate. The cocoa content of commercial dark chocolate bars can range from 30% (sweet dark) to 70- 80% for extremely dark bars. Bittersweet chocolate and semi-sweet chocolate also fall into the “dark chocolate” category.</p>
+		<h3> Bittersweet chocolate</h3>
+		<p>Chocolate, as defined by the FDA, that contains at least 35% cocoa solids. Most bittersweet bars contain at least 50% chocolate liquor, with some bars pushing 70-80% chocolate liquor. This chocolate often has a deeper, more bitter flavor than sweet dark or semi-sweet bars. However, the amount of sugar in the chocolate is not regulated, so one manufacturer’s “bittersweet” bar may taste sweeter than another’s “semi-sweet” bar.</p>
+		<h3> Semi-sweet chocolate</h3>
+		<p>This is primarily an American term, popularized by Nestle Toll House semi-sweet chocolate chips. Semi-sweet chocolate contains at least 35% cocoa solids, and is generally assumed to be darker than sweet dark chocolate, but sweeter than bittersweet. However, the lack of regulations regarding sugar content means that these classifications are relative and not consistent across brands.</p>
+		<h3> Sweet dark chocolate</h3>
+		<p>It is “dark chocolate” in the sense that it does not contain milk solids, but it still has a high percentage of sugar and is much sweeter than other types of dark chocolate. Many brands of sweet dark chocolate have only 20-40% cocoa solids.</p>
+		<h3> Milk chocolate</h3>
+		<p>In addition to containing cocoa butter and chocolate liquor, milk chocolate contains either condensed milk (most European varieties) or dry milk solids. Milk chocolate must contain at least 10% chocolate liquor (in the United States), 3.39% butterfat, and 12% milk solids. Milk chocolates are typically much sweeter than dark chocolate, and have a lighter color and a less pronounced chocolate taste. Milk chocolate is more difficult to temper properly and more prone to overheating.</p>
+		<h3> White chocolate</h3>
+		<p>White chocolate gets its name from the cocoa butter it contains, but does not contain chocolate liquor or any other cocoa products. As a result, it has no pronounced chocolate taste, but commonly tastes like vanilla or other added flavorings. By law, white chocolate must contain a minimum 20% cocoa butter, 14% milk solids, and a maximum of 55% sugar. There are some “white chocolate” products available that contain vegetable fats instead of cocoa butter—these should be avoided from a taste standpoint, as they contain no cocoa products at all, and are not technically white chocolate.</p>
+		<h3> Couverture chocolate</h3>
+		<p>Used primarily by professional bakers or confectioners, this chocolate contains a very high percent (at least 30%) of cocoa butter, as well as a high percentage of chocolate liquor. This high ratio makes it expensive, but it also means that the resulting chocolate is smooth and melts quickly and evenly. Couverture chocolate is the preferred chocolate for tempering and enrobing candies. It comes in dark, milk, and white varieties, and can be purchased online or at well-stocked cake decorating stores.</p>
+		<h3> Gianduja chocolate</h3>
+		<p>Gianduja is the name given to a European style of chocolate made from chocolate and nut paste. Hazelnut paste is most common, but gianduja can also be made with almond paste. It comes in milk or dark chocolate varieties. Gianduja chocolate can be used as a flavoring or as a substitute for milk or dark chocolate. At room temperature it is soft enough to be rolled or cut, but is too soft to use for molding chocolates.</p>
+		<h3> &quot;Candy coating&quot; chocolate</h3>
+		<p>Also known as “confectionery coating,” “summer coating,” or “compound coating.” These terms refer to candy products that are flavored like dark, milk or white chocolate and substitute vegetable or palm oils for cocoa butter. These products are cheaper than most chocolates, and do not contain significant amounts of chocolate liquor; thus, they do not have a strong chocolate flavor or an appealing mouthfeel. However, they have excellent melting and molding properties, and thus are often used in candymaking for dipping or enrobing, since they do not require tempering and can withstand high ambient temperatures. Be careful to never mix candy coating with real chocolate, as the fats are not compatible and the resulting candy will be unattractive and discolored.</p>
+	</div>
+	
+	
